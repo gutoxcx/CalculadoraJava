@@ -14,7 +14,7 @@ calculadora simples em **java** desenvolvida para praticar lógica de programaç
 ## 📦 como executar
 1. clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repo.git
+   git clone https://github.com/gutoxcx/calculadorajava.git
 
 
 2. entre na pasta do projeto:
